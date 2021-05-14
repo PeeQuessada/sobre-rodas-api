@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sobre-rodas-api",
+  "private_key_id": "7d64682ca853fb0ef9026096b1fc193b20d6c38b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDjdStt1OAzw00D\nyTprgYp+ID6jxA0OSRMQ+PFKicmztu17diUdyRtsjEpAZ8tCluglD4u1kUN1h00M\npV6BUWJDknL7tCM7hqk5rbDkWZqPl/Fcoe7M5XoOnoNhuziRF1soxnSxuTxCxJZL\n091qBvs1XntUI6n7zbCFNqWiXTrMPjRG8PjvStXMQAiZE0O6MlcO+XKb8g7Qwkx0\nlb1NF6rWyxtgVb5PR2Iar1eId+/6FAImRlxjNBJZUldg8OFvK3T0oMiCnlt7PL47\nqHy6zZZxcauFhfbUAwO4fjP+U5Gnm1JSgao6shjHkQtZyEZyPDijPqaMIKYVkST1\n3jzCDdOLAgMBAAECggEAAfbEw1xpDMUZ3BEs/2xeYgZGUPw1K1FXRiMKy+luQb+F\nQ9BvvEXWH9lHUT+ULfo1/VNlkfPFAeBhMe59vIm1wRgkOCcVfkLiVD2ynyyG40Ad\nI8viJH+QV0zGA4BpzSf6NDB1rkh+5cXBCJi12LUNH9L6FioHmfi49GT4Ia9LUzTr\nuDYplPDhIUTNGOsxJzRvT38UPipjJ6qGfiUNxzGXdJDDK0PjCbsYgUDdch9FWHom\nJ5yzmgN4bPQYIg6/vzE8GiC4osolW0yBBz0yKAxSfr8cjeJpGvP1zNMLyLkSiK4A\noTk5t5GMmd/3EQ2YpCCvuyH1uCyKMhFd929vawWPgQKBgQD72pQpfeHygE7cOIep\nJnLO/A3LmDYRQ2zgxsR7/9ydz9qGv2RNd4Df4HsHx0k88vo+alB8dmqHA7RqWMXp\n6TWFDzD0iBUj3F8COpUGdkTGAmEkRUwVOBtuX7BmF6pV1G5yuqpHiU00LC8NqpJd\nHUlBRDFp/JiFxXC69aYU01s/EwKBgQDnM8ZnfogpgMDurOaYSVF0cMip8zkZ0XWe\nxNLbuw7InOsmtlydHC27IfBgQhCJ4e46nP2W6k/MxXUFB/MjZx128MQ7ltWjLo1c\nNf8LqVrJA3MqwFUe4YPVp82HbjxjzxJ2vpJ/C9hFBK/7SyQDk1KyzvcivkiP7rna\njskz2aAQqQKBgQDSLGdGdOGwwHiO+LHla8uVhexxQdWk9HKQ5e8kV7IhFEsV9fRb\nXWXz7l5dcGZi8ZX5rjj6lMtzXpkZwnlvKYnbP4EoH8QciBPVRVQF736XC3dLkHTc\npFTn9/y6RfeE5uFA5xug1SjTaCfgLL8163GtgJ4IB560y762lrcBXBwidwKBgAzQ\nIb66lHE4YXjYvC7UYV9CoNxKTm/P2+Tgo47p3vffOmj60kciuKYWS2wKPUBm9Pzq\nlmM2uRVwG/wbZK4hmNBup3Fl+pEAk3T4yRmsWQuq1UcZQZ5kgRnmIs3Oniop36wV\nA6lmzqWEjPwwPd6023BtZ+TVBtBzOnmSUDQ/a0+BAoGAbkcYxR/jyILPIsx7TmuN\nsREQ9+jJHNfDz5fsaO5YHAEbIeUZOdE1ztInlHAXE/QR1aShjfDjFzCaBZaWhXSc\ngk0hgc/MXDY/aaiLsZ77ZerEh10Xn/8Pz1+5fKoUPosGVLvCI9t6JP0fYrpeL46E\n+X2vX0UBEAk8eqED9C7I/oY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-sqbuw@sobre-rodas-api.iam.gserviceaccount.com",
+  "client_id": "111591709438575134500",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-sqbuw%40sobre-rodas-api.iam.gserviceaccount.com"
+}
